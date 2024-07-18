@@ -1,0 +1,42 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    background-color:#252426;
+}
+
+.nav .nav-link.active {
+    background-color:#fff;
+    color: #252426;
+    
+}
+
+.nav .nav-link, .navbar-brand, .navbar-brand:hover {
+    color: #fff ;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.section-title {
+    font-family: "Montserrat", sans-serif;
+}
+
+#sobre-a-igreja {
+    background-color: #D9D9D9
+}
+
+.text-colored {
+    color: #252426;
+}
+
+.card {
+    border: none;
+    text-align: center; 
+}
+
+.card img {
+    margin: 0 auto;
+}
