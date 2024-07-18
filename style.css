@@ -32,7 +32,7 @@ body {
     color: #252426;
 }
 
-.nav-cultos .nav-link.active {
+.nav-cultos .nav-link.active, #fale button {
     background-color: #252426;
     color: #fff;
 }
@@ -48,4 +48,10 @@ body {
 
 .card img {
     margin: 0 auto;
+}
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+        object-fit: cover;
+    }
 }
